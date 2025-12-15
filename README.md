@@ -35,7 +35,7 @@
 
 <br>
 
-💞️ Skillset: I am a trained Data Scientist skilled in R, C++, SQL, and Python
+💞️ Skillset: Currently, I have some basic programming knowledge with some previous experience in website creation and experience in the visual basic programming language. As a part of my coursework in college, I have also designed a game using GameMaker2 and have some insight on the procedures in development life-cycles. I hope to broaden my skillset during my course at university, and learn how to become proficiet in c++, python, and java.
 
 <br>
 
