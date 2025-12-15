@@ -39,10 +39,6 @@
 
 <br>
 
-📫 Recent Projects Completed: 
-
-<br>
-
 🌱 Hobbies: During my spare time, I partake in a diverse set of activities that help me relax while keeping my brain active. One of my current passions is teaching myself how to play the piano, and learning songs by either reading sheet music or by playing the melody by ear. I am always up for the challenge to play any music regardless of the difficulty (even if I know that I may not be proficient enough to perfect a piece) as I find enjoyment in practicing and honing my ability to play well. 
 I also enjoy learning new languages! Currently I am learning German through Duolingo as it does assist me in reading sheet music, and it helps me work on memory and problem-solving skill through different exercises that Duolingo provides.
 However, one of my favourite things to do is to spend time with my family whether it's trying new experiences, exploring new places together, or even just having a fun conversation while shopping or watching a film.
