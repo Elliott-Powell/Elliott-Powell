@@ -25,7 +25,7 @@
 
 
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 👀 About me: I am an 18 year old that is dedicated and hardworking, and I love to learn about the evergrowing technological developments and the applications of technology in different fields of science. Growing up surrounded by technology, my curiousty for how electronical devices and their inner processes work has exponentially grown. Since, learning about computer science, I have had a fascination for every area of the subject. However, my current interests involve cyber security and ethical hacking. Additionally, after learning about psychology at college, I've been intruiged about the use of technology in the aid of developing solutions for psychological theories. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
@@ -87,8 +87,14 @@ As part of developing my programming abilities, I have created numerous small pr
 <div>
 
  :link: <b>Links to programs:</b>
- <a href="https://github.com/Elliott-Powell/C-Projects">Here are my first year projects so far! <img src="https://tenor.com/en-GB/view/kirby-headphones-music-to-the-beat-head-bang-gif-13516623" width="30">
- 
+ <a href="https://github.com/Elliott-Powell/C-Projects">Here are my first year projects so far!
+
+ </div>
+
+ <div>
+  
+ ![kirby-headphones](https://github.com/user-attachments/assets/b562fb5d-c526-4088-99de-89383a5dc194)   <h3>Thanks for reading!!!</h3>
+
 </div>
 
 
