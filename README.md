@@ -87,6 +87,7 @@ As part of developing my programming abilities, I have created numerous small pr
 <div>
 
  :link: <b>Links to programs:</b>
+ <a href="https://github.com/Elliott-Powell/C-Projects">Here are my first year projects so far! <img src="https://tenor.com/en-GB/view/kirby-headphones-music-to-the-beat-head-bang-gif-13516623" width="30">
  
 </div>
 
