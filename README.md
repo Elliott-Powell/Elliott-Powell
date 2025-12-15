@@ -53,20 +53,45 @@ However, one of my favourite things to do is to spend time with my family whethe
 
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Projects :
 
 <div>
 
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<b>Small C++ Programs</b>
+As part of developing my programming abilities, I have created numerous small projects in C++ to help my gain an understanding in the language and learn programming-oriented problem solving skills. Currently, I have completed 20 small scale projects with each one targetting different areas of coding to help hone my ability. Here are the latest 10 projects that I have done:
 
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+1. <b>Coin Toss</b> - This program simulates a coin toss. The program asks the user to input 'H' or 'T' and simulates tossing the coin by generating either a 1, representing heads, or 2, representing tails. If the user guesses correctly or incorrectly, the program will output you win, or, you lose, respectively. This program taught me how to generate random numbers using a seed and using modulus to solve problems.
 
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+2. <b>Rainfall</b> - This program outputs information stored on a text file about the rainfall between different months. Firstly, this program reads the start and end month in the text file, and then reads the monthly rainfall values. This program outputs a message stating when the rainfall was measured between along with the total rainfall, and the average rainfall between the start and end month. This program helped me develop skills in using input streams to read data from text files.
 
- <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+3. <b>Height in Meters</b> - This program takes a users height in feet and inches, and converts it into meters and millimeters. I have further developed this project since the original I have submitted to allow for some basic error handling. The project can also take height in, as Feet and Inches or Meters, and will ask the user what they would like their height to be converted into between Feet, Feet and Inches, Millimeters, Meters, or all of the units available.
 
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+4. <b>Student Performance Class</b> - This program utilises a class to store a name, academic score, and extra-curricular score of a student and outputs the student name, their performance as a percentage, and the grade that they achieved. This program taught me how to use getters and setters to assign values to an object.
 
+5. <b>Movie Data and Movie Profit</b> - This program uses a structure to store user inputted details about movies, which is then outputted to the user with the profit that the movie has generated. This program taught me how to use a structure and how to utilise a constructor to allow for user input to be passed into the movie data.
+
+6. <b>Grade Analysis</b> - This program takes 10 percentages inputted into an array and counts how many of the elements are greater than 50. This project taught me how to use arrays and also how to analyse and evaluate using an iterative for loop which loops through each item of an array. It also taught me how to use non-void functions as this program utilises a function which returns an int value for count.
+
+7. <b>Identical Arrays</b> - This program compares two arrays with 10 indexes. These arrays are populated with int values by the user. After the arrays are populated, the program looks at each element in the array and checks if at any point the values at the current index of the two arrays are not the same. This program taught me how to compare the values stored in two arrays at once while also helping me think outside the box as instead of checking if there is a match, I have to check if there are any values which do not match.
+
+8. <b>Earthquakes</b> - This program creates an Earthquake class to be able to store 5 Earthquakes in an array and sorts them into ascending magnitude. This program utilises a vector to store an array of 5 Earthquakes. These Earthquakes are then sorted into ascending magnitude using a selection sort and then outputted neatly to the user in order of ascending magnitude. This program taught me how to use vectors along with creating a selection sort. I am most proud of this program as it is one of my larger programs and took a lot of careful thinking to create.
+
+9. <b>Test Scores #1</b> - This program utilises pointers to store a dynamic array of test scores. These test scores are then sorted via a bubble sort and outputted into ascending order to the user. Additionally, the average test score is calculated. This program taught me how to use pointers and how to create and use dynamic arrays to call values and use memory addresses.
+
+10. <b>Test Scores #2</b> - (This program is a follow-up to Test Scores #1). This program utilises pointers and a class to store the name and test score of a student in a dynamic array. The user input is a name-score pair and the user inputs all the names-score pairs in one cin statement. I found this program difficult to make as I had never had used paired variables as input. This program taught me how to store pairs of variables and utilise them in comparisons and loops.
+
+</div>
+
+
+
+---
+
+
+
+<div>
+
+ <b>Links to programs:</b>
+ 
 </div>
 
 
