@@ -53,7 +53,7 @@ However, one of my favourite things to do is to spend time with my family whethe
 
 <div>
 
-<h1>Small C++ Programs</h1>
+<h5>Small C++ Programs</h5>
 As part of developing my programming abilities, I have created numerous small projects in C++ to help my gain an understanding in the language and learn programming-oriented problem solving skills. Currently, I have completed 20 small scale projects with each one targetting different areas of coding to help hone my ability. Here are the latest 10 projects that I have done:
 
 1. <b>Coin Toss</b> - This program simulates a coin toss. The program asks the user to input 'H' or 'T' and simulates tossing the coin by generating either a 1, representing heads, or 2, representing tails. If the user guesses correctly or incorrectly, the program will output you win, or, you lose, respectively. This program taught me how to generate random numbers using a seed and using modulus to solve problems.
