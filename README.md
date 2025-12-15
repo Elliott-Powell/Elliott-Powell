@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 
-👀 About me: I am an 18 year old that is dedicated and hardworking, and I love to learn about the evergrowing technological developments and the applications of technology in different fields of science. Growing up surrounded by technology, my curiousty for how electronical devices and their inner processes work has exponentially grown. Since, learning about computer science, I have had a fascination for every area of the subject. However, my current interests involve cyber security and ethical hacking. Additionally, after learning about psychology at college, I've been intruiged about the use of technology in the aid of developing solutions for psychological theories. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+👀 About me: I am an 18 year old that is dedicated and hardworking, and I love to learn about the evergrowing technological developments and the applications of technology in different fields of science. Growing up surrounded by technology, my curiousty for how electronical devices and their inner processes work has exponentially grown. Since, learning about computer science, I have had a fascination for every area of the subject. However, my current interests involve cyber security and ethical hacking. Additionally, after learning about psychology at college, I've been intruiged about the use of technology in the aid of developing solutions for psychological theories. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZyNXYzNXk0dnFwOXBoYzBjY25xOXFvZmptajh2NTcxdmI4djVnZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mcsPU3SkKrYDdW3aAU/giphy.gif" width="30"> 
 
 <br>
 
