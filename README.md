@@ -31,7 +31,7 @@
 
 <br>
 
-🌱 What I am doing: Currently, I am studying computer science at the University of South Wales
+🌱 What I am doing: Currently, I am in my firsty year of studying computer science at the University of South Wales, and I am hoping to acheive a bachelor's degree or potentially a masters degree in computer science. Although it is only the first term, the curriculum has provided a range of skills (such as relational database creating and queries through SQL, and logical thinking through creating small c++ programs and reversing the effects of a cypher on plaintext). 
 
 <br>
 
@@ -39,7 +39,7 @@
 
 <br>
 
-📫 Recent Projects Completed: Predicting Match Scores for Rugby World Cup 2023 using Machine Learning Techniques
+📫 Recent Projects Completed: 
 
 <br>
 
